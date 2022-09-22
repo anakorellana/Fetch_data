@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Lato', sans-serif;
+
+}
+
+#root {
+
+    font-family: 'Lora', serif;
+}
+
+
+.px-2 {
+    margin-top: 1cm;
+    margin-left: 1.5cm;
+    margin-right: 4cm;
+    /* padding-left: ($spacer * .10) !important;
+    padding-right: ($spacer * .30) !important; */
+  }
